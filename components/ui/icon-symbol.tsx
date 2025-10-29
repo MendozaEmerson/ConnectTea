@@ -19,6 +19,7 @@ const MAPPING: Record<string, ComponentProps<typeof MaterialIcons>['name']> = {
   'chevron.left.forwardslash.chevron.right': 'code',
   'chevron.right': 'chevron-right',
   'settings.fill': 'settings',
+  'route.h': 'route',
 };
 
 /**
